@@ -14,7 +14,7 @@ library(stringr)
 
 # Query recent LiDAR data sets for the area of the Wollongong 100k map sheet
 available_data <- mapsheets_100k %>%
-  filter(name = "Wollongong") %>%
+  filter(name == "Wollongong") %>%
   query_elvis(years = 2019:2020)
   
 ```
