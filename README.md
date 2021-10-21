@@ -1,4 +1,4 @@
-# cermbELVIS
+# CERMBelvis
 
 An R package with functions to query the data directory of the ELVIS archive of LiDAR point cloud 
 data maintained by Geoscience Australia (https://elevation.fsdf.org.au/). Written for use by the
@@ -8,7 +8,7 @@ Presently, the functions in the package are just a quick hack to make it easier 
 available LiDAR data sets for specified areas.
 
 ```
-library(cermbELVIS)
+library(CERMBelvis)
 library(dplyr, warn.conflicts = FALSE)
 library(stringr)
 
