@@ -1,8 +1,8 @@
 Package: cermbELVIS
 Type: Package
 Title: Compose web queries for LiDAR point cloud data held by Geoscience Australia
-Version: 0.1.0
-Date: 2021-10-19
+Version: 0.1.1
+Date: 2023-03-07
 Authors@R: c(
   person("Michael", "Bedward", role = c("aut", "cre"), email = "michael.bedward@gmail.com")
   )
